@@ -45,5 +45,13 @@
 * `Спич_презентация.txt` — текстовый файл с речью для выступления на защите презентации (тезисы, выводы, описания проблем).
 
 ---
-**Аналитик:** Макоев Вадим Акимович  
-**Связь:** Telegram: Monahui0 // LinkedIn: www.linkedin.com/in/vadim-makoev-82aa963ab // Email-1: vadimus9makkk@gmail.com // Email-2: mr.makoeff2@gmail.com
+## 📬 Контакты
+
+**Автор:** Макоев Вадим Акимович
+
+[![Telegram](https://img.shields.io/badge/Telegram-%40Monahui0-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/Monahui0)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vadim_Makoev-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vadim-makoev-82aa963ab)
+
+* **Email:** vadimus9makkk@gmail.com
+* **Резерв:** mr.makoeff2@gmail.com
+
