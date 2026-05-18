@@ -46,5 +46,4 @@
 
 ---
 **Аналитик:** Макоев Вадим Акимович  
-**Связь:** Telegram: Monahui0 // LinkedIn: www.linkedin.com/in/vadim-makoev-82aa963ab // Email: vadimus9makkk@gmail.com
-
+**Связь:** Telegram: Monahui0 // LinkedIn: www.linkedin.com/in/vadim-makoev-82aa963ab // Email-1: vadimus9makkk@gmail.com // Email-2: mr.makoeff2@gmail.com
